@@ -346,6 +346,17 @@ document.addEventListener('click', function(event) {
     index.add(
       {
         id: i++,
+        href: "/depctrl-browser/macros/phos.ASS2SVG/",
+        name: "ASS2SVG",
+        description: "Export ass shapes to svg path",
+      }
+    );
+    
+  
+    
+    index.add(
+      {
+        id: i++,
         href: "/depctrl-browser/macros/a-mo.Aegisub-Motion/",
         name: "Aegisub-Motion",
         description: "The main macro.",

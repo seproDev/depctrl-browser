@@ -1,0 +1,55 @@
+[
+  {
+    "fileBaseUrl": "https://raw.githubusercontent.com/PhosCity/Aegisub-Scripts/main/macros/phos.ASS2SVG",
+    "url": "https://github.com/PhosCity/Aegisub-Scripts#phos.ASS2SVG",
+    "author": "PhosCity",
+    "name": "ASS2SVG",
+    "description": "Export ass shapes to svg path",
+    "channels": {
+      "main": {
+        "version": "1.0.0",
+        "released": "2024-11-04",
+        "default": true,
+        "files": [
+          {
+            "name": ".moon",
+            "url": "https://raw.githubusercontent.com/PhosCity/Aegisub-Scripts/main/macros/phos.ASS2SVG.moon",
+            "sha1": "8d33fe9c0879d51f1d98c145bfd83c31c2153c3b",
+            "_validHash": true
+          }
+        ],
+        "requiredModules": [
+          {
+            "moduleName": "ILL.ILL",
+            "name": "ILL Library",
+            "url": "https://github.com/TypesettingTools/arch1t3cht-Aegisub-Scripts",
+            "version": "1.5.1",
+            "feed": "https://raw.githubusercontent.com/TypesettingTools/ILL-Aegisub-Scripts/main/DependencyControl.json"
+          }
+        ]
+      }
+    },
+    "changelog": {
+      "1.0.0": [
+        "Added to Dependency Control"
+      ]
+    },
+    "_validHash": true,
+    "_defaultVersion": "1.0.0",
+    "_scriptData": {
+      "name": "ASS2SVG",
+      "description": "Export ass shapes to svg path",
+      "author": "PhosCity",
+      "version": "1.0.0",
+      "namespace": "phos.ASS2SVG",
+      "_feedData": {
+        "feed": "https://raw.githubusercontent.com/PhosCity/Aegisub-Scripts/main/DependencyControl.json"
+      }
+    },
+    "_feedName": "PhosCity's Aegisub Scripts",
+    "_feedIdentifier": "8fe234d",
+    "_fetchTime": 1730693770222,
+    "_sourceUrl": "https://raw.githubusercontent.com/PhosCity/Aegisub-Scripts/main/DependencyControl.json",
+    "_namespace": "phos.ASS2SVG"
+  }
+]

@@ -42,7 +42,7 @@
     ],
     "_feedName": "FFI Experiments",
     "_feedIdentifier": "2d000a9",
-    "_fetchTime": 1730693770059,
+    "_fetchTime": 1730694673198,
     "_sourceUrl": "https://raw.githubusercontent.com/torque/ffi-experiments/master/DependencyControl.json",
     "_namespace": "requireffi.requireffi"
   },
@@ -89,7 +89,7 @@
     ],
     "_feedName": "FFI Experiments",
     "_feedIdentifier": "1fe3ac7",
-    "_fetchTime": 1730693770262,
+    "_fetchTime": 1730694673719,
     "_sourceUrl": "https://raw.githubusercontent.com/TypesettingTools/ffi-experiments/master/DependencyControl.json",
     "_namespace": "requireffi.requireffi"
   }

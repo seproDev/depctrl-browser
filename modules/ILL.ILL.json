@@ -8,13 +8,13 @@
     "channels": {
       "main": {
         "default": true,
-        "version": "1.5.2",
-        "released": "2024-11-26",
+        "version": "1.5.3",
+        "released": "2024-11-29",
         "files": [
           {
             "name": ".moon",
             "url": "https://raw.githubusercontent.com/TypesettingTools/ILL-Aegisub-Scripts/main/modules/ILL/ILL.moon",
-            "sha1": "1fe69f1b9e7cc11592301451a307cb69d51bfd2d",
+            "sha1": "cdb57557410986befd6a06fe06e25a6068eacd33",
             "_validHash": true
           },
           {
@@ -86,7 +86,7 @@
           {
             "name": "/Font/Unx.moon",
             "url": "https://raw.githubusercontent.com/TypesettingTools/ILL-Aegisub-Scripts/main/modules/ILL/ILL/Font/Unx.moon",
-            "sha1": "e6b05ac93401e0a7990a32177b0d39cd66a834b1",
+            "sha1": "9744a693c63c84e5cd820541f0be8dfe95f5943e",
             "_validHash": true
           },
           {
@@ -241,6 +241,9 @@
       ],
       "1.5.2": [
         "Added functions to reverse a path"
+      ],
+      "1.5.3": [
+        "Fix text extents width for unix"
       ]
     },
     "_validHash": true,
@@ -255,7 +258,7 @@
     ],
     "_feedName": "ILL Aegisub Scripts",
     "_feedIdentifier": "b2d8509",
-    "_fetchTime": 1732639538976,
+    "_fetchTime": 1732905065532,
     "_sourceUrl": "https://raw.githubusercontent.com/TypesettingTools/ILL-Aegisub-Scripts/main/DependencyControl.json",
     "_namespace": "ILL.ILL"
   }

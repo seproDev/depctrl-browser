@@ -15,7 +15,7 @@
             "name": ".moon",
             "url": "https://raw.githubusercontent.com/petzku/Aegisub-Scripts/petzku.tags-v0.3.0/modules/petzku/tags.moon",
             "sha1": "238ed3564c97b256922455bd96830ccf7cb6f2ec",
-            "_validHash": false
+            "_validHash": true
           }
         ]
       }
@@ -25,11 +25,11 @@
         "Add to DependencyControl"
       ]
     },
-    "_validHash": false,
+    "_validHash": true,
     "_reverseDependency": [],
     "_feedName": "petzku's Automation Scripts",
     "_feedIdentifier": "7161932",
-    "_fetchTime": 1737247258222,
+    "_fetchTime": 1737482150201,
     "_sourceUrl": "https://raw.githubusercontent.com/petzku/Aegisub-Scripts/master/DependencyControl.json",
     "_namespace": "petzku.tags"
   }

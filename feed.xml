@@ -4,11 +4,20 @@
   <subtitle>List of recently updated DependencyControl Macros.</subtitle>
   <link href="feed.xml" rel="self"/>
   <link href="https://typesettingtools.github.io/depctrl-browser/"/>
-  <updated>2024-11-17T00:00:00Z</updated>
+  <updated>2025-01-22T00:00:00Z</updated>
   <id>https://typesettingtools.github.io/depctrl-browser/</id>
   <author>
     <name>DepCtrl Browser</name>
   </author>
+  <entry>
+    <title>Chromatic Abberation - 1.0.4</title>
+    <link href="/depctrl-browser/macros/phos.ChromaticAbberation/"/>
+    <updated>2025-01-22T00:00:00Z</updated>
+    <id>https://typesettingtools.github.io/depctrl-browser/macros/phos.ChromaticAbberation/#1.0.4</id>
+    <content xml:lang="en" type="html">
+      
+    </content>
+  </entry>
   <entry>
     <title>Remove Tags - 1.0.3</title>
     <link href="/depctrl-browser/macros/phos.RemoveTags/"/>
@@ -34,15 +43,6 @@
     <link href="/depctrl-browser/macros/phos.Abacus/"/>
     <updated>2024-10-13T00:00:00Z</updated>
     <id>https://typesettingtools.github.io/depctrl-browser/macros/phos.Abacus/#1.0.2</id>
-    <content xml:lang="en" type="html">
-      
-    </content>
-  </entry>
-  <entry>
-    <title>Chromatic Abberation - 1.0.3</title>
-    <link href="/depctrl-browser/macros/phos.ChromaticAbberation/"/>
-    <updated>2024-09-16T00:00:00Z</updated>
-    <id>https://typesettingtools.github.io/depctrl-browser/macros/phos.ChromaticAbberation/#1.0.3</id>
     <content xml:lang="en" type="html">
       
     </content>

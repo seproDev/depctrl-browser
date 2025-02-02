@@ -8,13 +8,13 @@
     "channels": {
       "main": {
         "default": true,
-        "version": "1.5.4",
-        "released": "2024-12-01",
+        "version": "1.5.5",
+        "released": "2025-02-02",
         "files": [
           {
             "name": ".moon",
             "url": "https://raw.githubusercontent.com/TypesettingTools/ILL-Aegisub-Scripts/main/modules/ILL/ILL.moon",
-            "sha1": "70fc6b7b2df84f1120ab524af56e11d4066dd6ba",
+            "sha1": "50e0f2758d67a63191f00146c02969f9596f036f",
             "_validHash": true
           },
           {
@@ -68,7 +68,7 @@
           {
             "name": "/Ass/Line.moon",
             "url": "https://raw.githubusercontent.com/TypesettingTools/ILL-Aegisub-Scripts/main/modules/ILL/ILL/Ass/Line.moon",
-            "sha1": "409b63a246d1a00117fb84ea7cd738af6e290a93",
+            "sha1": "ed04c07c54cb67c6e083ccaaff543219b1d8f5fc",
             "_validHash": true
           },
           {
@@ -247,6 +247,9 @@
       ],
       "1.5.4": [
         "Fix font family"
+      ],
+      "1.5.5": [
+        "Fix issue #2 and #3"
       ]
     },
     "_validHash": true,
@@ -261,7 +264,7 @@
     ],
     "_feedName": "ILL Aegisub Scripts",
     "_feedIdentifier": "b2d8509",
-    "_fetchTime": 1738456743000,
+    "_fetchTime": 1738511136686,
     "_sourceUrl": "https://raw.githubusercontent.com/TypesettingTools/ILL-Aegisub-Scripts/main/DependencyControl.json",
     "_namespace": "ILL.ILL"
   }
